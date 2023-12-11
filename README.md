@@ -8,7 +8,7 @@
 ### Diving Deep into AI and Engineering: Welcome to my Github :wave:  
 <hr></hr>
 
-   As an Engineer and AI enthusiast, I'm passionate about developing projects that not only expand my skills, but also have real-world applications. That's why I've curated a selection of 6 projects, spanning 4 different programming languages (Python, Java, C++, JS) and covering topics such as Neural Networks, Machine Learning, Engineering, and Full Stack Development.
+   As an Engineer and AI enthusiast, I'm passionate about developing projects that not only expand my skills, but also have real-world applications. That's why I've curated a selection of 6 projects, spanning 4 different programming languages (Python, Java, C++, JS) and covering topics such as MLOps, Neural Networks, Machine Learning, Engineering, and Full Stack Development.
 
  Whether I'm tackling fraud detection, customer churn analysis, brake validation for racing vehicles, or building a full-stack food delivery app, my projects are designed to challenge me and keep me on the cutting edge of technology. And with a commitment to thorough documentation, you can be sure that each project showcases my technical abilities and attention to detail.
 
